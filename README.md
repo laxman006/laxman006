@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sai Laxman Kadari
-- 👀 I’m interested in Frontend(React),Backend(Node.js) and Database(MongoDB)
-- 🌱 I’m currently learning Full Stack Development with React and Node.js
+- 👀 I’m interested in Full stack development and UI design
+- 🌱 I’m currently learning Full Stack Development with React and Node.js and JAVA
 - 💞️ Portfolio : https://portfolio-laxman.netlify.app/ 
 - 📫 How to reach me kadarisailaxman@gmail.com
 
