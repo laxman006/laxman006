@@ -3,7 +3,7 @@
 🎯 Passionate about building scalable web applications and designing user-centric interfaces.
 
 ## 🚀 About Me
-- 👨‍💻 Currently learning **Full Stack Development** with **React**, **Node.js**, and **Java**
+- 👨‍💻 Currently learning **Software Trainee Engineer** with **React**, **Node.js**, and **Java**
 - 🌱 Exploring **Spring Framework** and **Generative AI on Google Cloud** through [Hack2Skills](https://github.com/laxman006/generative-ai)
 - 💡 Interested in **UI/UX Design**, **Java Development**, and **Software Trainee** roles
 - 📫 Reach me at: **kadarisailaxman@gmail.com**
